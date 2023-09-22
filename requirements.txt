@@ -1,0 +1,6 @@
+streamlit
+pymysql
+easyocr
+numpy
+opencv-python==4.5.5.64
+python==0.12.2
