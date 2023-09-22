@@ -1,7 +1,7 @@
 streamlit==1.27.0
 streamlit_option_menu==0.3.6
 pandas==1.3.3
-easyocr==1.4.1
+easyocr==2.6.0
 Pillow==8.2.0
 opencv-python==4.5.3.56
 matplotlib==3.4.3
