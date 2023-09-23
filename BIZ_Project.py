@@ -17,6 +17,7 @@ st.set_page_config(page_title="BizCardX: Extracting Business Card Data with OCR 
                    menu_items={'About': """# This OCR app is created by *Sriram W*!"""})
 st.markdown("<h1 style='text-align: center; color: white;'>BizCardX: Extracting Business Card Data with OCR</h1>",
             unsafe_allow_html=True)
+st.write( f'<h6 style="color:rgb(0,  102, 204, 255);">App Created by Sriram</h6>', unsafe_allow_html=True ) 
 
 # CREATING OPTION MENU
 selected = option_menu(None, ["Home","Upload & Extract","Modify"],
